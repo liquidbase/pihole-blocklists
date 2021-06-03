@@ -1,0 +1,7 @@
+lieferando.de
+burgerking.de
+mcdonalds.de
+
+www.lieferando.de
+www.burgerking.de
+www.mcdonalds.de
