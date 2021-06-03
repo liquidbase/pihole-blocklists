@@ -1,7 +1,9 @@
 lieferando.de
 burgerking.de
 mcdonalds.de
+dominos.de
 
 www.lieferando.de
 www.burgerking.de
 www.mcdonalds.de
+www.dominos.de
